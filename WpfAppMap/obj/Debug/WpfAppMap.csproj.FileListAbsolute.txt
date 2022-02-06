@@ -1,0 +1,76 @@
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\WpfAppMap.exe.config
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\WpfAppMap.exe
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\WpfAppMap.pdb
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.csprojAssemblyReference.cache
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\MainWindow.g.cs
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\App.g.cs
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap_MarkupCompile.cache
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap_MarkupCompile.lref
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\MainWindow.baml
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.g.resources
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.Properties.Resources.resources
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.csproj.GenerateResource.cache
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.csproj.CoreCompileInputs.cache
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.csproj.CopyComplete
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.exe
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.pdb
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication1.exe
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication2.exe
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication3.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\EntityFramework.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication3.pdb
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\EntityFramework.xml
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\System.ValueTuple.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\System.ValueTuple.xml
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\Microsoft.Owin.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\Owin.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\WpfAppMap\bin\Debug\Microsoft.Owin.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\WpfAppMap.exe.config
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\WpfAppMap.exe
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\WpfAppMap.pdb
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\Microsoft.Owin.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\Owin.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\System.ValueTuple.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\Microsoft.Owin.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\System.ValueTuple.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\MainWindow.g.cs
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\App.g.cs
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap_MarkupCompile.cache
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap_MarkupCompile.lref
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\MainWindow.baml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.g.resources
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.Properties.Resources.resources
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.csproj.GenerateResource.cache
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.csproj.CopyComplete
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.exe
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfAppMap\obj\Debug\WpfAppMap.pdb

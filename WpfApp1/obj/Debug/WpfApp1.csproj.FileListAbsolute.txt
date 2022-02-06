@@ -1,0 +1,17 @@
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\UserControl1.g.cs
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\App.g.cs
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\UserControl1.baml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\WpfApp1\obj\Debug\WpfApp1.pdb

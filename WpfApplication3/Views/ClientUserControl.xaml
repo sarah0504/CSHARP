@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="WpfApplication3.ViewModel2.ClientUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApplication3.ViewModel2" xmlns:View1="clr-namespace:WpfApplication3.Views" xmlns:MaterialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="183*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="MapWinButt" Command="{Binding mapWinCommand}" CommandParameter="{Binding Content,ElementName=MapWinButt}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="45" Height="31" Background="#FFC6FBDE" Foreground="#FF1BA85B" BorderBrush="#FFC6FBDE" Margin="0,-6,0,0" >
+            <MaterialDesign:PackIcon Kind="Globe"  Height="25" Width="25 " VerticalAlignment="Center">
+
+            </MaterialDesign:PackIcon>
+        </Button>
+        <Button x:Name="AddWinButt" Command="{Binding addWinCommand}" CommandParameter="{Binding Content,ElementName=AddWinButt}" HorizontalAlignment="Left" Margin="45,-6,0,0" VerticalAlignment="Top" Width="34" Height="31" Background="#FFC6FBDE" Foreground="#FF1BA85B" BorderBrush="#FFC6FBDE" Grid.ColumnSpan="2">
+            <MaterialDesign:PackIcon Kind="Add"  Height="25" Width="25 " VerticalAlignment="Center">
+
+            </MaterialDesign:PackIcon>
+        </Button>
+        <ContentControl x:Name="page" Margin="0,25,0,-0.4" Grid.ColumnSpan="2">
+            <Grid Background="#FFC6FBDE" Margin="0,0,0,-0.2">
+                <ListView  x:Name="listView" Background="#FFC6FBDE" Margin="0,10,0,-0.4" BorderBrush="#FFC6FBDE">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Vertical">
+                                <View1:itemTemplate/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+            </Grid>
+        </ContentControl>
+    </Grid>
+</UserControl>

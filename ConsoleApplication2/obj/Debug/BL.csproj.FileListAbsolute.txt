@@ -1,0 +1,265 @@
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\helper\Downloads\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\projetavecpdf (1)\DeliveryProject-master\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\bonne version v20\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.dll
+C:\Users\helper\Documents\c sharp le retour\bonne version v22\bonne version v20\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\projetENTIER\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.dll
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.xml
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\v30\v27\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.dll
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.xml
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\finalDESIGNBH\V31\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.dll
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.xml
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\helper\Downloads\finaleversion\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.dll
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\System.ValueTuple.xml
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\sarit\Downloads\finalVersionSDV\finaleversion\DeliveryProject-master\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

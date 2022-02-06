@@ -1,0 +1,72 @@
+﻿<UserControl xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApplication3.Views"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             x:Class="WpfApplication3.Views.AddDis"
+             mc:Ignorable="d"   d:DesignHeight="457.995" d:DesignWidth="826.269">
+    <ContentControl x:Name="page">
+        <Grid x:Name="biggrid" Background="white" HorizontalAlignment="Left" Height="420" Width="800" Margin="3,0,0,-0.4" RenderTransformOrigin="0.5,0.5" >
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.021"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Border BorderBrush="White" BorderThickness="1" HorizontalAlignment="Left" Height="438" Margin="10,10,0,0" VerticalAlignment="Top" Width="803" Background="White" OpacityMask="Black">
+
+                <Grid x:Name="dataGrid" Margin="-1,-19,29,35">
+                    <DatePicker IsTodayHighlighted="True" xmlns:sys="clr-namespace:System;assembly=mscorlib" DisplayDate="{x:Static sys:DateTime.Now}" SelectedDate="{Binding Path=date ,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" x:Name="dater" Margin="220,84,154.6,308.8"></DatePicker>
+                    <Label Content="................................................................................................................................................" Margin="11,51,145.6,343.8" Background="White" FontFamily="Microsoft Sans Serif" FontSize="16" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" RenderTransformOrigin="0.5,0.5">
+                        <Label.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform AngleY="0.212"/>
+                                <RotateTransform/>
+                                <TranslateTransform Y="0.698"/>
+                            </TransformGroup>
+                        </Label.RenderTransform>
+                    </Label>
+                    <Label Content="Add a new distribution - to add a new distribution please fill all the required fields" Margin="0,22,19.6,355.8" Background="White" FontFamily="Microsoft Sans Serif" FontSize="20
+                       " Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                    <Label Content="Date to delivery*" Margin="85,84,572.6,284.8" Background="White" FontFamily="Microsoft Sans Serif" FontSize="12" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                    <Label Content="To who ? *" Margin="85,141,368.6,223.8" Background="White" FontFamily="Microsoft Sans Serif" FontSize="12" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                    <Label Content="* required fields" Margin="220,313,461.6,84.8" Background="White" FontFamily="Microsoft Sans Serif" FontSize="10
+                       " Foreground="Black"/>
+                    <Label Content="by*" Margin="85,202,112.6,158.8" Background="White" FontFamily="Microsoft Sans Serif" FontSize="12" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" RenderTransformOrigin="0.569,-0.445"/>
+
+                    <Grid x:Name="checkGrid">
+                        <CheckBox x:Name="checkFoodCB" Command="{Binding foodCheckComm}" CommandParameter="{Binding Content, ElementName=checkFoodCB}"  Margin="231,250,214.6,111.8">
+                            <materialDesign:PackIcon  Kind="Food" Height="52" Width="55" VerticalAlignment="Center"/>
+                        </CheckBox>
+
+                        <CheckBox x:Name="checkDrugCB" Command="{Binding drugCheckComm}" CommandParameter="{Binding Content, ElementName=checkDrugCB}" IsChecked="{Binding checkdrugs, Mode=TwoWay}"  Margin="405,250,63.6,-17.2">
+                            <materialDesign:PackIcon  Kind="Medicine"  Height="44" Width="56" VerticalAlignment="Center"/>
+                        </CheckBox>
+                    </Grid>
+
+
+
+                </Grid>
+
+
+            </Border>
+            <Grid x:Name="buttonGrid" Margin="91,1,-67,130">
+                <Button x:Name="addDis" Command="{Binding addDisComm}" CommandParameter="{Binding Content, ElementName=addDis}" Content="Add" HorizontalAlignment="Left" Margin="143,333,0,-85" VerticalAlignment="Top" Width="270" Background="#FF0F9D58" FontFamily="Microsoft Sans Serif" Foreground="White"  Height="41"/>
+                <Button x:Name="cancelButt" Command="{Binding cancelComm}" CommandParameter="{Binding Content, ElementName=cancelButt}" Content="or Cancel" HorizontalAlignment="Left" Margin="418,336,0,-82" VerticalAlignment="Top" Width="92" Background="White" FontSize="10" BorderBrush="White" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" RenderTransformOrigin="0.53,0.175" Height="35"/>
+                <ComboBox  x:Name="ListDM" ItemsSource="{Binding}" HorizontalAlignment="Left" Margin="143,196,0,0" VerticalAlignment="Top" Width="400" SelectionChanged="ListDM_SelectionChanged" Height="33"/>
+                <Button x:Name="selectClient" Command="{Binding selectClientComm}" CommandParameter="{Binding Content, ElementName=selectClient}" Content="select clients" HorizontalAlignment="Left" Margin="143,136,0,0" VerticalAlignment="Top" Width="270" Background="#FF0F9D58" FontFamily="Microsoft Sans Serif" Foreground="White"  Height="33"/>
+            </Grid>
+            <Label x:Name="box3" Visibility="Hidden" Content="You have selected" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Width="109" Margin="505,141,0,0"/>
+            <Label x:Name="box1" Visibility="Hidden" HorizontalAlignment="Left" VerticalAlignment="Top" Height="61" Width="43" Margin="691,136,0,0">
+                <materialDesign:PackIcon  Kind="Done"  Height="28" Width="33" VerticalAlignment="Center" RenderTransformOrigin="0.886,0.993"/>
+            </Label>
+            <Label x:Name="box2" Visibility="Hidden" Content="clients" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Width="44" Margin="642,141,0,0"/>
+            <TextBox BorderBrush="Transparent" IsEnabled="False" x:Name="box4" HorizontalAlignment="Left" Height="23" Margin="614,143,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="23"/>
+
+        </Grid>
+    </ContentControl>
+</UserControl>

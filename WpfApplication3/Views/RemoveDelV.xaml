@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="WpfApplication3.RemoveDelV"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApplication3"
+             mc:Ignorable="d" 
+            d:DesignWidth="592" Height="419" Width="790">
+    <Grid x:Name="buttonGrid" Background="white" Margin="0,0,-29.6,0.2" Height="419" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="317*"/>
+            <RowDefinition Height="102*"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="White" BorderThickness="1" HorizontalAlignment="Left" Height="399" Margin="51,20,0,0" VerticalAlignment="Top" Width="641" Background="White" OpacityMask="Black" Grid.RowSpan="2">
+
+            <Grid x:Name="dataGrid" Margin="0.2,-0.8,0.4,-0.2">
+                <Label Content="......................................................................................................................." Margin="-32,34,70.6,314.6" Background="White" FontFamily="Microsoft Sans Serif" FontSize="16" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                <Label Content="Remove a delivery Men " Margin="-32,0,180.6,369.6" Background="White" FontFamily="Microsoft Sans Serif" FontSize="18
+                       " Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                <ComboBox ItemsSource="{Binding}"  Name="IDc" Margin="10,95,101.6,257.6" SelectionChanged="IDc_SelectionChanged" />
+                <TextBox x:Name="ado" Text="{Binding name, Mode=TwoWay}" Margin="10,182,101.6,172.6"/>
+                <Label Content="Identifical number*" Margin="10,66,289.6,308.6" Background="White" FontFamily="Microsoft Sans Serif" FontSize="12
+                       " Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" RenderTransformOrigin="0.501,0.5"/>
+                <Label Content="Last Name*" Margin="10,156,354.6,216.6" Background="White" FontFamily="Microsoft Sans Serif" FontSize="12
+                       " Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                <Label Content="* required fields" Margin="137,274,226.6,81.6" Background="White" FontFamily="Microsoft Sans Serif" FontSize="10
+                       " Foreground="Black"/>
+
+            </Grid>
+
+        </Border>
+        <Button x:Name="removeDel" Command="{Binding removeDelComm}" CommandParameter="{Binding Content, ElementName=removeDel}" Content="Remove" HorizontalAlignment="Left" Margin="187,2.2,0,0" VerticalAlignment="Top" Width="256" Background="#FF0F9D58" FontFamily="Microsoft Sans Serif" Foreground="White" Grid.Row="1" Height="42"/>
+        <Button x:Name="cancelButt" Command="{Binding cancelComm}" CommandParameter="{Binding Content, ElementName=cancelButt}" Content="or Cancel" HorizontalAlignment="Left" Margin="448,17.2,0,0" VerticalAlignment="Top" Width="77" Background="White" FontSize="10" BorderBrush="White" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" Grid.Row="1" Height="27"/>
+
+    </Grid>
+</UserControl>
+

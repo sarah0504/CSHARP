@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="WpfApplication3.Views.ClientBISmapUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApplication3.Views" xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <ContentControl x:Name="page">
+        <Grid Background="White">
+            <ListView  x:Name="listView" Background="#FFEBEBEB" Margin="117,0,-13,-0.4"  SelectionMode="Extended" SelectionChanged="listView_SelectionChanged">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Vertical">
+                            <local:itemTemplate/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button x:Name="MapWinButt" Command="{Binding mapBISWinCommand}" CommandParameter="{Binding Content,ElementName=MapWinButt}" Content="View in map" HorizontalAlignment="Left" Margin="0,89,0,0" VerticalAlignment="Top" Width="117" Height="32" />
+            <Button x:Name="addButt"  Content="Add" HorizontalAlignment="Left" Margin="0,141,0,0" VerticalAlignment="Top" Width="117" Height="32"  />
+
+        </Grid>
+    </ContentControl>
+
+
+</UserControl>
